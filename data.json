@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "MacBook Pro 14\"",
+    "description": "Silver MacBook Pro with a sticker of a mountain on the lid. Charger included.",
+    "category": "Electronics",
+    "location": "Library, 2nd Floor",
+    "date": "2026-04-22",
+    "status": "lost",
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Blue Water Bottle",
+    "description": "Hydro Flask, blue, 32oz. Has initials A.K. on the bottom.",
+    "category": "Accessories",
+    "location": "Gym / Sports Complex",
+    "date": "2026-04-21",
+    "status": "lost",
+    "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&q=80"
+  },
+  {
+    "id": 3,
+    "title": "AirPods Pro (Gen 2)",
+    "description": "White AirPods Pro in a white case. Engraved with \"Riya\" on the back.",
+    "category": "Electronics",
+    "location": "Cafeteria",
+    "date": "2026-04-20",
+    "status": "lost",
+    "image_url": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Student ID Card",
+    "description": "ID card for student Arjun Mehta, Dept. of Computer Science.",
+    "category": "Documents",
+    "location": "Main Gate",
+    "date": "2026-04-19",
+    "status": "lost",
+    "image_url": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=400&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Prescription Glasses",
+    "description": "Black-framed rectangular glasses in a brown leather case.",
+    "category": "Accessories",
+    "location": "Seminar Hall B",
+    "date": "2026-04-18",
+    "status": "lost",
+    "image_url": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=400&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Purple Backpack",
+    "description": "Found a purple Wildcraft backpack with textbooks inside near Block C.",
+    "category": "Bags",
+    "location": "Block C, Near Staircase",
+    "date": "2026-04-22",
+    "status": "found",
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Calculator (Casio fx-991)",
+    "description": "Scientific calculator found in Room 204 after a maths class.",
+    "category": "Electronics",
+    "location": "Room 204, Academic Block",
+    "date": "2026-04-21",
+    "status": "found",
+    "image_url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=400&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Car Keys (Honda)",
+    "description": "Honda car keys with a small elephant keychain found in the parking lot.",
+    "category": "Keys",
+    "location": "Parking Lot",
+    "date": "2026-04-20",
+    "status": "found",
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Notebook (Engineering Maths)",
+    "description": "Spiral-bound notebook filled with maths notes. Name \"Priya\" on first page.",
+    "category": "Books",
+    "location": "Reading Room",
+    "date": "2026-04-19",
+    "status": "found",
+    "image_url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=400&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Umbrella (Black, Large)",
+    "description": "Large black umbrella with a wooden handle found near the bus stop.",
+    "category": "Accessories",
+    "location": "Bus Stop / Main Gate",
+    "date": "2026-04-18",
+    "status": "found",
+    "image_url": "https://images.unsplash.com/photo-1558618047-f4e80c0d56e5?w=400&q=80"
+  }
+]
